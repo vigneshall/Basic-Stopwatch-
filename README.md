@@ -11,11 +11,12 @@ This GUI-based mini project features Start, Stop , and Reset functionalities wit
 
 3.Responsive UI with Tkinter
 
-4,Dark mode design with accent color
+4.Dark mode design with accent color
 
 📌 Tech Stack
 
 1.Python 🐍
+
 2.Tkinter (Standard Python GUI library)
 
 💡 Learning Outcomes
