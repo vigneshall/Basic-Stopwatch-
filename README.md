@@ -6,8 +6,11 @@ This GUI-based mini project features Start, Stop , and Reset functionalities wit
 🛠️ Features
 
 1.Start, Stop, and Reset buttons
+
 2.Real-time time tracking (HH\:MM\:SS format)
+
 3.Responsive UI with Tkinter
+
 4,Dark mode design with accent color
 
 📌 Tech Stack
